@@ -1,8 +1,8 @@
-**Programa para encontrar la persona mayor**
+#Programa para encontrar la persona mayor**
 
 _Este programa permite encontrar la persona mayor entre dos personas._
 
-**Instrucciones:**
+## Instrucciones:**
 
 1. Ejecuta el programa.
 2. Ingresa el nombre de la primera persona.
@@ -13,7 +13,8 @@ Resultado:
 
 El programa mostrará un mensaje indicando la persona mayor.
 
-Ejemplo:
+## Ejemplo:
+aqui hay un ejemplo de como se ejecuta el programa
 ```
 digite su nombre=Ana
   digite su edad=25
@@ -23,7 +24,7 @@ digite su nombre=Ana
 
 > la persona mayor es Ana
 ```
-Explicación del código:
+### Explicación del código:
 
 * Las líneas `p1=input("digite su nombre=")` y `p2=input("digite su nombre=")` solicitan el nombre de las dos personas.
 + Las líneas `edad1=int(input("digite su edad="))` y `edad2=int(input("digite su edad="))` solicitan la edad de las dos personas.
